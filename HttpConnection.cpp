@@ -26,6 +26,8 @@ void HttpConnection::Start()
 		}
 	);
 }
+
+//sdsd
 unsigned char ToHex(unsigned char x)
 {
 	return  x > 9 ? x + 55 : x + 48;
