@@ -24,6 +24,7 @@
     <ProjectGuid>{935c55aa-3716-41f7-b224-d9ead0da0b9e}</ProjectGuid>
     <RootNamespace>GateServer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>GateServer1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
